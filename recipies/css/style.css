@@ -1,0 +1,14 @@
+.forward {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        a {
+            text-decoration: none;
+            font-size: 14px;
+            transition: all .3s ease 0s;
+        }
+        a:hover{
+            color: #555;
+        }
